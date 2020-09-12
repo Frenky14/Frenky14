@@ -7,6 +7,11 @@
 - 🥅 2020 Goals: Find a Web Developer student job
 - ⚡ Fun fact: I love to play ice hockey and I really love dogs
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 🔧 My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -20,6 +25,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
+
+[instagram]: https://www.instagram.com/matevz_zbontar14/
+[linkedin]: www.linkedin.com/in/matevž-žbontar
+
 
 
 
