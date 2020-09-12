@@ -29,7 +29,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/matevz_zbontar14/
-[linkedin]: www.linkedin.com/in/matevž-žbontar
+[linkedin]: https://www.linkedin.com/in/matevz-zbontar
 
 
 
