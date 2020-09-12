@@ -23,6 +23,8 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Frenky14)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
