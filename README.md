@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to play ice hockey and I really love dogs
 
 
-🔧 My Tech Stack
+## 🔧 My Tech Stack
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -23,13 +23,13 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
 
-[instagram]: https://www.instagram.com/matevz_zbontar14/
-[linkedin]: www.linkedin.com/in/matevž-žbontar
-
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/matevz_zbontar14/
+[linkedin]: www.linkedin.com/in/matevž-žbontar
 
 
 
