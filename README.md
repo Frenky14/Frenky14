@@ -8,10 +8,6 @@
 - ⚡ Fun fact: I love to play ice hockey and I really love dogs
 
 
-
-<br />
-<br />
-
 🔧 My Tech Stack
 
 
