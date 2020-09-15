@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working towards getting my diploma of Organization and Management of Information Systems!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Find a Web Developer student job
+- 🥅 2020 Goals: Find a Web Developer job
 - ⚡ Fun fact: Napoleon was once attacked by thousands of rabbits
 
 
