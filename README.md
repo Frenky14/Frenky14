@@ -22,9 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Frenky14)
 
