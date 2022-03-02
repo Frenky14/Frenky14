@@ -2,9 +2,9 @@
 
 ## I'm a Student learning to become a developer!
 
-- 🔭 I’m currently working towards getting my diploma of Organization and Management of Information Systems!
+- 🔭 I’m currently working towards getting my Master's degree of Organization and Management of Information Systems!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Find a Web Developer job
+- 🥅 2022 Goals: More traveling!
 - ⚡ Fun fact: Napoleon was once attacked by thousands of rabbits
 
 
