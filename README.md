@@ -1,14 +1,7 @@
-# Hi there 👋
+# Frenky14
 
-I like turning ideas into useful things for the web — with a little personality along the way.
+Based in Slovenia. Working on web projects and Shopify integrations.
 
-## What you'll find here
+## Public projects
 
-- **Shopify projects:** connecting storefronts with useful data.
-- **Small experiments:** trying ideas, learning by building, and keeping what works.
-
-## On the slopes ⛷️
-
-[Ski tests](https://github.com/Frenky14/Ski-tests) provides ski test event and test center data for a Shopify page. A small repository with a job to do.
-
-Based in Slovenia. Curious by default.
+- [Ski tests](https://github.com/Frenky14/Ski-tests) — Ski test event and test center data used on a Shopify page.
