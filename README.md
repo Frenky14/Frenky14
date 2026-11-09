@@ -19,6 +19,7 @@ tools and workflows that make everyday work easier.
 ![Klaviyo](https://img.shields.io/badge/Klaviyo-34473F?style=flat-square)
 ![Meta Ads](https://img.shields.io/badge/Meta%20Ads-34473F?style=flat-square)
 ![Tally](https://img.shields.io/badge/Tally-34473F?style=flat-square)
+![Sprout Social](https://img.shields.io/badge/Sprout%20Social-34473F?style=flat-square)
 
 **Development & hosting**
 
@@ -33,5 +34,8 @@ tools and workflows that make everyday work easier.
 **AI, automation & content**
 
 ![n8n](https://img.shields.io/badge/n8n-494150?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-494150?style=flat-square)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-494150?style=flat-square)
 ![Hermes](https://img.shields.io/badge/Hermes-494150?style=flat-square)
 ![Frame.io](https://img.shields.io/badge/Frame.io-494150?style=flat-square)
+![Miro](https://img.shields.io/badge/Miro-494150?style=flat-square)
